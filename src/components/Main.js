@@ -124,19 +124,19 @@ const Main = (props) => {
 
                                     <SocialActions>
                                         <button>
-                                            <img src="/images/like-icon.svg" alt="" />
+                                            <i class="far fa-thumbs-up"></i>
                                             <span>Like</span>
                                         </button>
                                         <button>
-                                            <img src="/images/comments-icon.svg" alt="" />
+                                            <i class="far fa-comment"></i>
                                             <span>Comment</span>
                                         </button>
                                         <button>
-                                            <img src="/images/share-icon.svg" alt="" />
+                                            <i class="fas fa-share"></i>
                                             <span>Share</span>
                                         </button>
                                         <button>
-                                            <img src="/images/send-icon.svg" alt="" />
+                                            <i class="fab fa-telegram-plane"></i>
                                             <span>Send</span>
                                         </button>
                                     </SocialActions>
